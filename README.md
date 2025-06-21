@@ -65,11 +65,13 @@ Color-Psychology-Outfit-Recommender/
   
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🟡 CLI Version Output
-![CLI preview](screenshots/CLI Based Version.png)
+![CLI preview](screenshots/CLI%20Based%20Version.png)
 
 ### 🟢 GUI Version Output
-![GUI preview](screenshots/GUI Based Version.png)
+![GUI preview](screenshots/GUI%20Based%20Version.png)
 
 
 
