@@ -65,8 +65,10 @@ Color-Psychology-Outfit-Recommender/
 ---
 
 ## 🖼 Screenshots
+  
+(CLI preview)[screenshots/CLI Based Version.png]#output image
 
-
+(GUI preview)[Screenshots/GUI Based Version.png]#output imagess
 
 
 
