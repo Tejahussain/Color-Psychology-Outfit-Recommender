@@ -62,13 +62,15 @@ Color-Psychology-Outfit-Recommender/
 | Happy       | Yellow, Pink          | Yellow energizes; pink softens joy |
 | Confident   | Emerald Green, Red    | Green empowers; red boosts boldness |
 
----
-
-## 🖼 Screenshots
   
-(CLI preview)[screenshots/CLI Based Version.png]#output image
+## 📸 Screenshots
 
-(GUI preview)[Screenshots/GUI Based Version.png]#output imagess
+### 🟡 CLI Version Output
+![CLI preview](screenshots/CLI Based Version.png)
+
+### 🟢 GUI Version Output
+![GUI preview](screenshots/GUI Based Version.png)
+
 
 
 
