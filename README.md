@@ -76,6 +76,10 @@ Color-Psychology-Outfit-Recommender/
 
 
 
+##Requirements.txt
+*tkinter
+
+
 ## 🛠 Technologies Used
 
 * Python
